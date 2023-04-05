@@ -1,0 +1,2 @@
+# linux_check
+一个Linux基线检查的shell脚本，用以检查linux服务器的账号口令策略、安全审计等
